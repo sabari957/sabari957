@@ -10,7 +10,7 @@
 ## 🛠️ Skills
 
 **Languages:** Python (Basic), C (Basic)  
-**Web:** HTML (Basic)  
+**Web:** HTML & Css, JavaScript (Learning)
 **Tools:** VS Code, Git, GitHub
 
 ---
