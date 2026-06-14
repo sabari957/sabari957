@@ -22,8 +22,8 @@ A small Python tool that calculates Body Mass Index based on user inputs.
 ### 🔐 Password Generator
 Generates secure random passwords using Python’s `random` module.
 
-### 💬 Simple Chat App
-A basic client–server chat application built with Python socket programming.
+### 💬 A Tribute Page
+A responsive tribute webpage on Dr. APJ Abdul Kalam built with HTML + CSS, covering his key missions and personal reflections.
 
 ---
 
