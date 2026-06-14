@@ -1,9 +1,8 @@
 # Hello! I'm Sabarinathan P
 
-🎓 **3rd Year CSE Student**  
-📍 Chennai, Tamil Nadu, India  
-🔗 LinkedIn: https://www.linkedin.com/in/sabarinathan-p-764915365  
-📫 Email: sn389654@gmail.com
+🎓 **Final Year CSE Student**  
+📍 Chennai, Tamil Nadu, India
+📖 Education: DMI College of Engineering, Chennai.
 
 ---
 
