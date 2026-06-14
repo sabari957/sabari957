@@ -1,8 +1,7 @@
 # Hello! I'm Sabarinathan P
 
 🎓 **Final Year CSE Student**  
-📍 Chennai, Tamil Nadu, India.
-
+📍 Chennai, Tamil Nadu, India.                                                                                                        
 📖 Education: DMI College of Engineering, Chennai.
 
 ---
