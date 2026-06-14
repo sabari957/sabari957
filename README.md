@@ -9,9 +9,9 @@
 
 ## 🛠️ Skills
 
-**Languages:** Python (Basic), C (Basic)  
-**Web:** HTML & Css, JavaScript (Learning)
-**Tools:** VS Code, Git, GitHub
+**Languages:** Python , Sql.
+**Web:** HTML & CSS.
+**Tools:** VS Code, Git, GitHub, Power BI, Excel.
 
 ---
 
@@ -30,9 +30,7 @@ A basic client–server chat application built with Python socket programming.
 
 ## 🚀 Currently Learning
 
-🔹 Python Web Development (Flask)  
-🔹 Database basics (MySQL / SQLite)  
-🔹 More real-world projects  
+🔹 SQL for data analysis | Fraud detection with credit card data | Feature engineering basics | Preparing for ML model comparison.
 
 ---
 
